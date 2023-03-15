@@ -1,0 +1,278 @@
+/* *{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+} */
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#show-front1>a:hover{
+        font-size: 10px;
+}
+#show-front{
+    /* border: 2px solid black; */
+    height: 800px;
+    width: 1520px;
+    background-image: url("../project/");
+    /* border: 5px solid rgb(249, 14, 14); */
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+   
+    
+}
+#show-front1{
+       margin: 0%;
+       /* border: 2px solid rgb(8, 8, 8); */
+       height: 35px;
+       background-color: rgb(69, 69, 69);
+    
+}
+nav{
+    /* border: 2px solid black; */
+    
+    /* height: 25px; */
+    color: white;
+    
+    padding: 10px;
+    position: absolute;   
+}
+#nav1{
+    left: 15px;
+}
+#nav2{
+    left: 80px;
+}
+#nav3{
+    left: 160px;
+}
+#nav4{
+    left: 210px;
+}
+#nav5{
+    left:260px;
+}
+
+
+
+#h1{
+    font-size: 90px;
+    color: white;
+    text-align: center;
+    margin-top:250px ;
+
+}
+#h3{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#p1{
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+}
+
+#show-middle{
+    border: 2px solid rgb(37,37,41);
+    height: 1260px;
+    width: 1520px;
+    /* background-image: url(/image/mockup1.png);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: rgb(37,37,41);
+}
+#img1{
+    height: 700px;
+    width: 1300px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#h4{
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 50px;
+}
+#h5{
+    margin-left: 560px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+#p2{
+    text-align: center;
+    font-size: 22px;
+    line-height: 30px;
+}
+#p3{
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+button{
+    margin-left: 650px;
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+    width: 230px;
+    height: 60px;
+}
+
+#show-end{
+    /* border: 2px solid black; */
+    height: 1360px;
+    width: 1520px;
+    
+
+}
+#h6{
+    margin-left: 350px;
+    margin-top: 70px;
+}
+
+#p4{
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 50px;
+}
+
+#button2{
+    height: 50px;
+    width: 110px;
+    margin-left: 700px;
+    background-color: rgb(16,48,99);
+}
+
+#img2{
+    margin-left: 170px;
+    margin-top: 0px;
+}
+
+#show-end1{
+    border: 2px solid rgb(0,89,136);
+    background-image: url(/image/section-bg2.jpeg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    height: 510px;
+    width: 1520px;
+    /* display: flex; */
+}
+
+#h7{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    text-align: center;
+}
+
+#p5{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+#gift-card{
+    /* border: 2px solid black; */
+    height: 500px;
+    width: 1520px;
+}
+#img3{
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;   
+    position: absolute;
+}
+
+#h8{
+    
+    margin-top: 70px;
+    margin-left: 700px;
+    /* display: inline-block; */
+     
+}
+#p6{
+    
+    margin-top: 20px;
+    /* border: 2px solid black; */
+    height: 100px;
+    width: 600px;
+    margin-left: 700px;
+    /* display: inline-block; */
+}
+#h9{
+    margin-left: 700px;
+    
+}
+#hr1{
+    width: 590px;
+    margin-left: 700px;
+    color: black;
+}
+#a{
+    margin-left: 700px;
+    text-decoration-line: none;
+    font-weight: bold;
+}
+#b{
+    font-weight: bolder;
+}
+
+footer{
+    /* border: 2px solid black; */
+    width: 1520px;
+    height: 300px;
+    background-color: rgb(37,37,41);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#foodiv1{
+    /* margin-left: 180px; */
+    color: white;
+    /* flex-grow: ; */
+    
+    /* position: absolute; */
+}
+#foodiv2{
+    /* margin-left: 490px; */
+    color: white;
+    /* position: absolute; */
+}
+#foodiv3{
+    /* margin-left: 790px; */
+    color: white;
+    /* position: absolute; */
+}
+ #foodiv4{
+    /* border: 2px solid black;  */
+    /* margin-left: 1190px; */
+    /* margin-top: 30px; */
+    color: white;
+    
+   
+}/*
+ #foodiv5{
+    border: 2px solid black;
+    height: 35px;
+    width: 1520px;
+    background-color: rgb(51,51,51);
+    margin-top: 150px;
+}
+#h1foo{
+
+    margin-top: 0px;
+    margin-left: 600px;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+
+} */
+
+
+
